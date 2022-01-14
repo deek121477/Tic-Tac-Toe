@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http.//deek121477.github.io/Tic-Tac-Toe/static/css/main.0b47c7b0.chunk.css",
+    "main.js": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/main.72d85998.chunk.js",
+    "main.js.map": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/main.72d85998.chunk.js.map",
+    "runtime-main.js": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/runtime-main.0764e431.js",
+    "runtime-main.js.map": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/runtime-main.0764e431.js.map",
+    "static/js/2.30579fad.chunk.js": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/2.30579fad.chunk.js",
+    "static/js/2.30579fad.chunk.js.map": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/2.30579fad.chunk.js.map",
+    "static/js/3.a608af5b.chunk.js": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/3.a608af5b.chunk.js",
+    "static/js/3.a608af5b.chunk.js.map": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/3.a608af5b.chunk.js.map",
+    "index.html": "/http.//deek121477.github.io/Tic-Tac-Toe/index.html",
+    "static/css/main.0b47c7b0.chunk.css.map": "/http.//deek121477.github.io/Tic-Tac-Toe/static/css/main.0b47c7b0.chunk.css.map",
+    "static/js/2.30579fad.chunk.js.LICENSE.txt": "/http.//deek121477.github.io/Tic-Tac-Toe/static/js/2.30579fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0764e431.js",
+    "static/js/2.30579fad.chunk.js",
+    "static/css/main.0b47c7b0.chunk.css",
+    "static/js/main.72d85998.chunk.js"
+  ]
+}
